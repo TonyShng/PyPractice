@@ -1,2 +1,2 @@
 # PythonProgramming
-Python practice
+Python基础部分，已完成
